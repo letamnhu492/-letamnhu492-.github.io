@@ -1,6 +1,8 @@
 # Cấu hình trang GitHub Pages — sinh viên chỉ cần sửa ba dòng đầu
 title: Lê Tâm Như
 description: Sinh viên năm nhất ngành Khoa học máy tính, HUTECH
+email: letamnhu.291945@gmail.com
+github_username: letamnhu492
 author: Lê Tâm Như
 
 theme: jekyll-theme-cayman
